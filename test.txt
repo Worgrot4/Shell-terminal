@@ -1,0 +1,6 @@
+echo hi; echo hello
+echo hi | cat | cat
+echo hello
+echo test; pwd; sl; ls -h > hello.txt; cat hello.txt
+cd ..
+ls -l
