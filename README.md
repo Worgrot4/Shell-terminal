@@ -33,3 +33,6 @@ int contains(char** arr, char* str);
 static void sighandler(int signo);
 void run(char** tokarr);
 ```
+
+
+School git page: https://github.com/Stuycs-K/project02-myshell-10-velazquezi-elliottd-watkinsg
